@@ -1,0 +1,3 @@
+[submodule "ObjectDetectionWithCustomYoloV7/yolov7"]
+	path = ObjectDetectionWithCustomYoloV7/yolov7
+	url = https://github.com/WongKinYiu/yolov7.git
